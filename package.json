@@ -1,0 +1,25 @@
+{
+  "name": "cssf",
+  "version": "1.0.0",
+  "description": "CSS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marcaltmann/cssf.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": {
+    "name": "Marc Altmann",
+    "email": "marcaltmann@posteo.de"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcaltmann/cssf/issues"
+  },
+  "homepage": "https://github.com/marcaltmann/cssf#readme"
+}
