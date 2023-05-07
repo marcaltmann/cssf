@@ -17,7 +17,7 @@
     "name": "Marc Altmann",
     "email": "marcaltmann@posteo.de"
   },
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/marcaltmann/cssf/issues"
   },
